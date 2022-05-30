@@ -1,0 +1,2 @@
+#!/bash/bin
+tain -n 1 > iacta | iacta

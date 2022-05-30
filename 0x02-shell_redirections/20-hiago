@@ -1,0 +1,2 @@
+#!/bash/bin
+echo "hello, how are you?" | sed 's/c C//g'
