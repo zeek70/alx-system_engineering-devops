@@ -1,2 +1,2 @@
 #!/bin/bash
-also this
+rm -r/* '.js'
