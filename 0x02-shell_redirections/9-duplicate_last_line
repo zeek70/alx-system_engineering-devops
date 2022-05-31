@@ -1,2 +1,2 @@
 #!/bash/bin
-tain -n 1 > iacta | iacta
+echo "tail -1 iacta -d"
