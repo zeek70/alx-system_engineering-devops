@@ -1,2 +1,2 @@
 #!/bash/bin
-echo "hello, how are you?" | sed 's/c C//g'
+tr -d 'c' | tr -d 'C'

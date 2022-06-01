@@ -1,2 +1,2 @@
 #!/bin/bash
-another line
+tr 'A' 'Z' | tr 'c' 'e'
